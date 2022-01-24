@@ -1,0 +1,19 @@
+{
+  "name": "rest-api-sample",
+  "version": "1.0.0",
+  "description": "This is a Sample project From Saimun Rahman",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "Saimun Rahman",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^14.2.0",
+    "express": "^4.17.2",
+    "mongoose": "^6.1.7"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
