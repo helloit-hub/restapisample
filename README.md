@@ -1,10 +1,10 @@
 # API ENDPOINTS
 
-GET -->> /api/student > All Data
-GET -->> /api/student/{id} > Find a Specific data by id
-POST -->> /api/student/create > Create a new Entry
-POST -->> /api/student/update/{id} > Update existing entry by id
-POST -->> /api/student/delete/{id} > Delete a existing entry by id
+- GET -->> /api/student > All Data
+- GET -->> /api/student/{id} > Find a Specific data by id
+- POST -->> /api/student/create > Create a new Entry
+- POST -->> /api/student/update/{id} > Update existing entry by id
+- POST -->> /api/student/delete/{id} > Delete a existing entry by id
 
 To Test this api
 
